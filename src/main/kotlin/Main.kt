@@ -1,3 +1,5 @@
+import grading_student.gradingStudent
+
 fun main(args: Array<String>) {
     //a_very_big_sum.aVeryBigSum()
     //simpleArraySum()
@@ -9,4 +11,5 @@ fun main(args: Array<String>) {
     //birthdayCakeCandles()
     //diagonalDifference()
     //timeConversion()
+    gradingStudent()
 }

@@ -2,6 +2,7 @@ import a_very_big_sum.AVeryBigSum;
 import birthday_cake_candles.BirthdayCakeCandles;
 import compare_the_triplets.CompareTheTriplets;
 import diogonal_difference.DiagonalDifference;
+import grading_student.GradingStudent;
 import min_max_sum.MinMaxSum;
 import plus_minus.PlusMinus;
 import sales_by_match.SalesByMatch;
@@ -51,5 +52,9 @@ public class MainJava {
 //        DiagonalDifference diagonalDifference;
 //        diagonalDifference = new DiagonalDifference();
 //        diagonalDifference.diagonalDifference();
+
+        GradingStudent gradingStudent;
+        gradingStudent = new GradingStudent();
+        gradingStudent.gradingStudent();
     }
 }
