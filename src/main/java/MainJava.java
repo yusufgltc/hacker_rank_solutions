@@ -1,14 +1,4 @@
-import a_very_big_sum.AVeryBigSum;
-import birthday_cake_candles.BirthdayCakeCandles;
-import compare_the_triplets.CompareTheTriplets;
-import diogonal_difference.DiagonalDifference;
-import grading_student.GradingStudent;
-import min_max_sum.MinMaxSum;
-import plus_minus.PlusMinus;
-import sales_by_match.SalesByMatch;
-import simple_array_sum.SimpleArraySum;
-import stair_case.StairCase;
-import time_conversion.TimeConversion;
+import programming_task_lunarlogic.ProgrammingTaskLunarLogicPinCode;
 
 public class MainJava {
     public static void main(String[] args) throws Exception {
@@ -53,8 +43,12 @@ public class MainJava {
 //        diagonalDifference = new DiagonalDifference();
 //        diagonalDifference.diagonalDifference();
 
-        GradingStudent gradingStudent;
-        gradingStudent = new GradingStudent();
-        gradingStudent.gradingStudent();
+//        GradingStudent gradingStudent;
+//        gradingStudent = new GradingStudent();
+//        gradingStudent.gradingStudent();
+
+        ProgrammingTaskLunarLogicPinCode programmingTaskLunarLogicPinCode;
+        programmingTaskLunarLogicPinCode = new ProgrammingTaskLunarLogicPinCode();
+        programmingTaskLunarLogicPinCode.programmingTaskLunarLogicPinCode();
     }
 }
