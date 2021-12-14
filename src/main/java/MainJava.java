@@ -1,4 +1,4 @@
-import programming_task_lunarlogic.ProgrammingTaskLunarLogicPinCode;
+import number_lines_jump.NumberLinesJump;
 
 public class MainJava {
     public static void main(String[] args) throws Exception {
@@ -47,8 +47,11 @@ public class MainJava {
 //        gradingStudent = new GradingStudent();
 //        gradingStudent.gradingStudent();
 
-        ProgrammingTaskLunarLogicPinCode programmingTaskLunarLogicPinCode;
-        programmingTaskLunarLogicPinCode = new ProgrammingTaskLunarLogicPinCode();
-        programmingTaskLunarLogicPinCode.programmingTaskLunarLogicPinCode();
+        NumberLinesJump numberLinesJump;
+        numberLinesJump = new NumberLinesJump();
+        numberLinesJump.numberLinesJump();
+//        ProgrammingTaskLunarLogicPinCode programmingTaskLunarLogicPinCode;
+//        programmingTaskLunarLogicPinCode = new ProgrammingTaskLunarLogicPinCode();
+//        programmingTaskLunarLogicPinCode.programmingTaskLunarLogicPinCode();
     }
 }

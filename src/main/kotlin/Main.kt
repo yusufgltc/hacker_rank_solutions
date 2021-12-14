@@ -1,4 +1,5 @@
 import grading_student.gradingStudent
+import number_lines_jump.numberLinesJump
 
 fun main(args: Array<String>) {
     //a_very_big_sum.aVeryBigSum()
@@ -11,5 +12,6 @@ fun main(args: Array<String>) {
     //birthdayCakeCandles()
     //diagonalDifference()
     //timeConversion()
-    gradingStudent()
+    //gradingStudent()
+    numberLinesJump()
 }
