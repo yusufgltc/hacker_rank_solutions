@@ -1,3 +1,4 @@
+import cats_and_mouse.CatsAndMouse;
 import number_lines_jump.NumberLinesJump;
 
 public class MainJava {
@@ -47,11 +48,15 @@ public class MainJava {
 //        gradingStudent = new GradingStudent();
 //        gradingStudent.gradingStudent();
 
-        NumberLinesJump numberLinesJump;
-        numberLinesJump = new NumberLinesJump();
-        numberLinesJump.numberLinesJump();
+//        NumberLinesJump numberLinesJump;
+//        numberLinesJump = new NumberLinesJump();
+//        numberLinesJump.numberLinesJump();
 //        ProgrammingTaskLunarLogicPinCode programmingTaskLunarLogicPinCode;
 //        programmingTaskLunarLogicPinCode = new ProgrammingTaskLunarLogicPinCode();
 //        programmingTaskLunarLogicPinCode.programmingTaskLunarLogicPinCode();
+
+        CatsAndMouse catsAndMouse;
+        catsAndMouse = new CatsAndMouse();
+        catsAndMouse.catsAndMouse();
     }
 }

@@ -1,3 +1,4 @@
+import cats_and_mouse.catsAndMouse
 import grading_student.gradingStudent
 import number_lines_jump.numberLinesJump
 
@@ -13,5 +14,6 @@ fun main(args: Array<String>) {
     //diagonalDifference()
     //timeConversion()
     //gradingStudent()
-    numberLinesJump()
+    //numberLinesJump()
+    catsAndMouse()
 }
