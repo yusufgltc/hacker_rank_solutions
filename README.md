@@ -1,7 +1,7 @@
 # hacker_rank_solutions
 In this repository I solved some algorithmic problems on hackerrank.com
 
-##Solutions (Java&Kotlin)
+## Solutions (Java&Kotlin)
 a_very_big_sum </br>
 birthday_cake_candles </br>
 cats_and_mouse </br>
