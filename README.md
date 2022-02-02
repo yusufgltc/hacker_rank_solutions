@@ -1,4 +1,4 @@
-# hacker_rank_solutions
+# HackerRank solutions 
 In this repository I solved some algorithmic problems on hackerrank.com
 
 ## Solutions (Java&Kotlin)
